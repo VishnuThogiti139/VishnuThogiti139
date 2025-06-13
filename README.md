@@ -19,7 +19,7 @@
 
 I'm Vishnu, a **Data Analyst** and recent graduate with a **Master’s in Data Science & Analytics** from Florida Atlantic University (GPA: 3.8). I bring nearly **3 years of industry experience** solving business and technical problems using **Python, SQL, GCP, GenAI, and LLMs**.
 
-I transitioned from a mechanical engineering background into the world of data, driven by my passion to turn raw information into powerful insights and intelligent solutions. I enjoy working on projects that intersect **AI, cloud platforms, automation, and human-centered design**.
+I driven by my passion to turn raw information into powerful insights and intelligent solutions. I enjoy working on projects that intersect **AI, cloud platforms, automation, and human-centered design**.
 
 I'm particularly excited by:
 - ✨ Generative AI for real-world applications (RAG, LangChain, LLMs)
