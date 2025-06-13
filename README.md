@@ -59,7 +59,7 @@ I'm particularly excited by:
 | [👥 Employee Summary](https://github.com/VishnuThogiti139/employee_summary) | Web app that turns employee data into personalized summaries using LLMs. Autogenerates SQL queries to get data from multipul tables and integrates contact security. | Python, MySQL, Streamlit |
 | [☕ Coffee Finder](https://github.com/VishnuThogiti139/Coffee_Finder) | LLM-powered app that finds nearby cafes with human-like descriptions. Uses OpenStreetMap, LangChain, and Google GenAI. | LangChain, GenAI, Streamlit, Python |
 | 🧠 Health Habit *(Private/In Progress)* | Built a personalized AI healthcare assistant using a 70:30 model (user data and family history) to recommend food, fitness, and lifestyle changes. | RAG, Python, Next.js, GenAI |
-| .[📊 Real Estate Dashboard](https://public.tableau.com/app/profile/vishnu.thogiti/vizzes) | Used **Excel + Tableau** to identify key property value drivers, predict price growth, and map future investment opportunities. | Excel, Tableau, Gantt charts, clustering |
+| [📊 Real Estate Dashboard](https://public.tableau.com/app/profile/vishnu.thogiti/vizzes) | Used **Excel + Tableau** to identify key property value drivers, predict price growth, and map future investment opportunities. | Excel, Tableau, Gantt charts, clustering |
 
 ---
 
