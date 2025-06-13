@@ -23,7 +23,7 @@ I transitioned from a mechanical engineering background into the world of data, 
 
 I'm particularly excited by:
 - ✨ Generative AI for real-world applications (RAG, LangChain, LLMs)
-- 📊 Data visualization and storytelling with tools like Streamlit & Tableau
+- 📊 Data visualization and storytelling with tools like PowerBI, Tableau & Streamlit.
 - 🏥 Healthcare tech & personalized recommendations
 - ☁️ Cloud-native analytics (GCP, AWS, CI/CD)
 
@@ -43,7 +43,7 @@ I'm particularly excited by:
 - Completed Infra Ops & Dell ISM V5 certifications.
 - Supported real-time data backups and cloud migration for enterprise clients.
 
-#### 📈 Sennight Technology – *Data Analyst*
+#### 📈💻 Sennight Technology – *Data Analyst*
 **Nov 2020 – Dec 2021**
 - Led data automation for hospital ERP systems, improving patient flow & bed allocation accuracy by 15%.
 - Created automated dashboards with **Tableau** and validated 500K+ records during ERP migration.
@@ -55,10 +55,10 @@ I'm particularly excited by:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📈 Stock Predictor](https://github.com/VishnuThogiti139/stock-Predictor) | AI-driven web app that analyzes historical stock trends and forecasts future movements with LLMs. Features Buy/Sell/Hold decisions. | Python, Streamlit, YFinance, LLM |
-| [👥 Employee Summary](https://github.com/VishnuThogiti139/employee_summary) | Web app that turns employee data into personalized summaries using LLMs. Autogenerates SQL queries and integrates contact security. | Python, MySQL, Streamlit |
+| [📈 Stock Predictor](https://github.com/VishnuThogiti139/stock-Predictor) | AI-driven web app that analyzes historical stock trends and forecasts future movements with LLMs. Features Buy/Sell/Hold decisions and peer suggestions. | Python, Streamlit, YFinance, LLM |
+| [👥 Employee Summary](https://github.com/VishnuThogiti139/employee_summary) | Web app that turns employee data into personalized summaries using LLMs. Autogenerates SQL queries to get data from multipul tables and integrates contact security. | Python, MySQL, Streamlit |
 | [☕ Coffee Finder](https://github.com/VishnuThogiti139/Coffee_Finder) | LLM-powered app that finds nearby cafes with human-like descriptions. Uses OpenStreetMap, LangChain, and Google GenAI. | LangChain, GenAI, Streamlit, Python |
-| 🧠 Health Habit *(Private/In Progress)* | Built a personalized AI healthcare assistant using a 70:30 model (user data vs family history) to recommend food, fitness, and lifestyle changes. | RAG, Tailwind, Next.js, GenAI |
+| 🧠 Health Habit *(Private/In Progress)* | Built a personalized AI healthcare assistant using a 70:30 model (user data and family history) to recommend food, fitness, and lifestyle changes. | RAG, Python, Next.js, GenAI |
 | 📊 Real Estate Dashboard | Used **Excel + Tableau** to identify key property value drivers, predict price growth, and map future investment opportunities. | Excel, Tableau, Gantt charts, clustering |
 
 ---
@@ -76,15 +76,15 @@ I'm particularly excited by:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Technical skills:** Python (Pandas, PyTorch, Scikit-learn), R, Streamlit, FastAPI, MySQL, Oracle, SQL Server.
+✅**Technical skills:** Python (Pandas, PyTorch, Scikit-learn), R, Streamlit, FastAPI, MySQL, Oracle, SQL Server.
 
-**AI/ML:** LLMs (Gemini), LangChain, NLP, Scikit-learn, TensorFlow, Retrieval-Augmented Generation (RAG).
+✅**AI/ML:** LLMs (Gemini), LangChain, NLP, Scikit-learn, TensorFlow, Retrieval-Augmented Generation (RAG).
 
-**Visualization & Tools:** Power BI, Tableau, Excel (PivotTables, Goal Seek), PowerPoint, Adobe, Git, Bash, Linux/Unix, CI/CD (basic), Jira, Cursor, VS code, Visio.
+✅**Visualization & Tools:** Power BI, Tableau, Excel (PivotTables, Goal Seek), PowerPoint, Adobe, Git, Bash, Linux/Unix, CI/CD (basic), Jira, Cursor, VS code, Visio.
 
-**Cloud:** Google Cloud (Certified), Amazon Web Services (EC2, Lambda, AWS SageMaker).
+✅**Cloud:** Google Cloud (Certified), Amazon Web Services (EC2, Lambda, AWS SageMaker).
 
-**Soft Skills:** Strong communication (written & verbal), analytical thinking, problem-solving, positive attitude.
+✅**Soft Skills:** Strong communication (written & verbal), analytical thinking, problem-solving, positive attitude.
 
 ---
 
