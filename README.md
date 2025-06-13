@@ -79,8 +79,11 @@ I'm particularly excited by:
 **Technical skills:** Python (Pandas, PyTorch, Scikit-learn), R, Streamlit, FastAPI, MySQL, Oracle, SQL Server.
 
 **AI/ML:** LLMs (Gemini), LangChain, NLP, Scikit-learn, TensorFlow, Retrieval-Augmented Generation (RAG).
+
 **Visualization & Tools:** Power BI, Tableau, Excel (PivotTables, Goal Seek), PowerPoint, Adobe, Git, Bash, Linux/Unix, CI/CD (basic), Jira, Cursor, VS code, Visio.
+
 **Cloud:** Google Cloud (Certified), Amazon Web Services (EC2, Lambda, AWS SageMaker).
+
 **Soft Skills:** Strong communication (written & verbal), analytical thinking, problem-solving, positive attitude.
 
 ---
