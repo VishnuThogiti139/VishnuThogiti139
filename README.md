@@ -112,6 +112,7 @@ I'm particularly excited by:
 - 📍 Based in **Boca Raton, FL**
 - 📨 Email: thogitivishnu01@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-thogiti-52421926b/)  
+- 💼 [Handshake](https://fau.joinhandshake.com/profiles/rwxfej)
 - 🔗 Portfolio/Apps: [Stock Predictor](https://vishnuthogiti139-stock-predictor-app-0sgqgy.streamlit.app/) • [Coffee Finder](https://vishnuthogiti139-coffee-finder-app-wmbgtr.streamlit.app/) • [Employee Summary](https://employeesummary-jdt97kuxhntmkfbsfrn6ws.streamlit.app/)
 
 ---
