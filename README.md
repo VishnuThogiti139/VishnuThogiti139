@@ -33,7 +33,8 @@ I'm particularly excited by:
 
 #### MYSTICMIND DATA SOLUTIONS LLC  – *Junior Data Analyst*	
 **Houston, TX, USA -- July 2025 – Present**
--**Skills:** Python, SQL, Linux, GCP
+
+- **Skills:** Python, SQL, Linux, GCP
 -	Collaborate with Data Architects to analyze data sources and design source-to-target mappings for optimized pipeline execution.
 -	Support data modeling efforts and help prepare scalable data transformation logic using Databricks and PySpark.
 -	Develop AI and GenAI models by integrating structured and unstructured datasets across enterprise systems.
