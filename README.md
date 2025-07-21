@@ -31,17 +31,25 @@ I'm particularly excited by:
 
 ### 💼 Work Experience
 
-#### 💻 DXC Technology (Client: Deutsche Bank) – *Associate Professional Software Engineer*
-**June 2022 – March 2023**
-- Designed cloud-based storage and backup systems on **GCP** for secure, scalable access to Deutsche Bank’s global data.
-- Built ETL pipelines and automated large-scale reporting using **Python & SQL**, optimizing data workflows across departments.
-- Collaborated with cross-functional teams in aligning data governance policies with client requirements.
+#### MYSTICMIND DATA SOLUTIONS LLC  – *JUNIOR DATA ANALYST*	
+**Houston, TX, USA -- July 2025 – Present**
+**Skills:** Python, SQL, Linux, GCP
+-	Collaborate with Data Architects to analyze data sources and design source-to-target mappings for optimized pipeline execution.
+-	Support data modeling efforts and help prepare scalable data transformation logic using Databricks and PySpark.
+-	Develop AI and GenAI models by integrating structured and unstructured datasets across enterprise systems.
+-	Work on data engineering tasks including transformation, loading, and data validation in hybrid cloud environments.
+-	Engage in requirement gathering, performance tuning, and documentation.
 
-#### ☁️ DXC Technology – *Software Engineer Intern (Cloud Platforms)*
-**Jan 2022 – June 2022**
-- Gained hands-on experience in GCP, Linux, and Python for infrastructure automation.
-- Completed Infra Ops & Dell ISM V5 certifications.
-- Supported real-time data backups and cloud migration for enterprise clients.
+
+#### 💻 DXC Technology (Client: Deutsche Bank) – *Associate Data Engineer*
+**Jan 2022 – March 2023**
+- Skills: Python, SQL, Linux, GCP
+- Built automated ETL pipelines in Python and SQL to process multi-source data and support financial analytics reporting.
+- Used GCP, Linux, and internal tools to implement secure cloud-based data storage and backup workflows.
+- Collaborated with global stakeholders to streamline data integration and compliance for Deutsche Bank operations.
+- Delivered and maintained robust data systems supporting migration, quality validation, and transformation activities.
+- Applied foundational concepts in data engineering and infrastructure from Infra Ops and ISMv5 certifications to real-world scenarios.
+
 
 #### 📈💻 Sennight Technology – *Data Analyst*
 **Nov 2020 – Dec 2021**
@@ -56,7 +64,7 @@ I'm particularly excited by:
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [📈 Stock Predictor](https://github.com/VishnuThogiti139/stock-Predictor) | AI-driven web app that analyzes historical stock trends and forecasts future movements with LLMs. Features Buy/Sell/Hold decisions and peer suggestions. | Python, Streamlit, YFinance, LLM |
-| [👥 Employee Summary](https://github.com/VishnuThogiti139/employee_summary) | Web app that turns employee data into personalized summaries using LLMs. Autogenerates SQL queries to get data from multipul tables and integrates contact security. | Python, MySQL, Streamlit |
+| [👥 Employee Summary](https://github.com/VishnuThogiti139/employee_summary) | Web app that turns employee data into personalized summaries using LLMs. Autogenerates SQL queries Dynamically using sql schema to get data from SQL database and integrates contact security. | Python, MySQL, Streamlit, FAISS |
 | [📺 YouTube AI News Generator](https://github.com/VishnuThogiti139/YouTube_News_AI) | An app that collects raw information, summarizes it, generates voiceovers (MP3), creates relevant images and videos, combines all components into a cohesive video, and automatically uploads it to a YouTube channel. | Python, GenAI, Streamlit, News API,  APIs, LLMs|
 | [☕ Coffee Finder](https://github.com/VishnuThogiti139/Coffee_Finder) | LLM-powered app that finds nearby cafes with human-like descriptions. Uses OpenStreetMap, LangChain, and Google GenAI. | LangChain, GenAI, Streamlit, Python |
 | 🧠 Health Habit *(Private/In Progress)* | Built a personalized AI healthcare assistant using a 70:30 model (user data and family history) to recommend food, fitness, and lifestyle changes. | RAG, Python, Next.js, GenAI |
