@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vishnu Thogiti</h1>
 
 <p align="center">
-  🎓 Master's in Data Science & Analytics | 💡 Data Analyst & Engineer | ☁️ Cloud & GenAI Enthusiast  
+  🎓 Master's in Data Science & Analytics | 💡 Data Engineer & Analyst | ☁️ Cloud & GenAI Enthusiast  
 </p>
 
 <p align="center">
@@ -20,15 +20,17 @@
 
 ### 🧠 About Me
 
-I'm Vishnu, a **Data Analyst** and recent graduate with a **Master’s in Data Science & Analytics** from Florida Atlantic University (GPA: 3.8). I bring nearly **3 years of industry experience** solving business and technical problems using **Python, SQL, GCP, GenAI, and LLMs**.
+💡 Data Science & Analytics Professional | Data Engineer | Analyst
 
-I driven by my passion to turn raw information into powerful insights and intelligent solutions. I enjoy working on projects that intersect **AI, cloud platforms, automation, and human-centered design**.
+I'm Vishnu, a **Data Science and Analytics professional** with expertise in Python, SQL, R, and cloud platforms (AWS, GCP), along with hands-on experience in machine learning, Generative AI, and data engineering pipelines. I hold a **Master’s in Data Science & Analytics** from Florida Atlantic University **(GPA: 3.8)**. and have industry experience in building AI/ML applications, data-driven dashboards, and scalable ETL workflows.
 
 I'm particularly excited by:
 - ✨ Generative AI for real-world applications (RAG, LangChain, LLMs)
-- 📊 Data visualization and storytelling with tools like PowerBI, Tableau & Streamlit.
+- 📊 Data visualization and storytelling with tools like PowerBI, Tableau, Streamlit, Excel, Pandas, Matplotlib & Seaborn.
 - 🏥 Healthcare tech & personalized recommendations
 - ☁️ Cloud-native analytics (GCP, AWS, CI/CD)
+
+I enjoy solving complex business problems with data-backed insights and have built projects such as a Stock Predictor App, Employee Summary Generator, YouTube News Generator, Coffee Finder, and Health Habit AI Assistant.
 
 ---
 
