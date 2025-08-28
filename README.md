@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vishnu Thogiti</h1>
 
 <p align="center">
-  🎓 Master's in Data Science & Analytics | 💡 Data Analyst | ☁️ Cloud & GenAI Enthusiast  
+  🎓 Master's in Data Science & Analytics | 💡 Data Analyst & Engineer | ☁️ Cloud & GenAI Enthusiast  
 </p>
 
 <p align="center">
@@ -31,32 +31,20 @@ I'm particularly excited by:
 
 ### 💼 Work Experience
 
-#### MYSTICMIND DATA SOLUTIONS LLC  – *Junior Data Analyst*	
-**Houston, TX, USA -- July 2025 – Present**
+#### MYSTICMIND DATA SOLUTIONS LLC  – *Data Science - Engineer & analyst*	
+**Houston, TX, USA -- Present**
 
-- **Skills:** Python, SQL, Linux, GCP
--	Collaborate with Data Architects to analyze data sources and design source-to-target mappings for optimized pipeline execution.
--	Support data modeling efforts and help prepare scalable data transformation logic using Databricks and PySpark.
--	Develop AI and GenAI models by integrating structured and unstructured datasets across enterprise systems.
--	Work on data engineering tasks including transformation, loading, and data validation in hybrid cloud environments.
--	Engage in requirement gathering, performance tuning, and documentation.
+- **Skills:** Python, SQL, Databricks, AWS, GCP, PyTorch, LangChain, Spark, TensorFlow, Scikit-learn, ELT
 
 
 #### 💻 DXC Technology (Client: Deutsche Bank) – *Associate Data Engineer*
 **Jan 2022 – March 2023**
-- **Skills:** Python, SQL, Linux, GCP
-- Built automated ETL pipelines in Python and SQL to process multi-source data and support financial analytics reporting.
-- Used GCP, Linux, and internal tools to implement secure cloud-based data storage and backup workflows.
-- Collaborated with global stakeholders to streamline data integration and compliance for Deutsche Bank operations.
-- Delivered and maintained robust data systems supporting migration, quality validation, and transformation activities.
-- Applied foundational concepts in data engineering and infrastructure from Infra Ops and ISMv5 certifications to real-world scenarios.
+- **Skills:** Python, SQL, Linux, GCP, Cloud ETL, Risk Models, PySpark, Tableau, Power BI, ELT
 
 
 #### 📈💻 Sennight Technology – *Data Analyst*
 **Nov 2020 – Dec 2021**
-- Led data automation for hospital ERP systems, improving patient flow & bed allocation accuracy by 15%.
-- Created automated dashboards with **Tableau** and validated 500K+ records during ERP migration.
-- Focused on healthcare analytics and operational efficiency.
+- **Skills:** Python, SQL, Tableau, Healthcare Analytics, ERP, Power BI, Azure
 
 ---
 
@@ -86,13 +74,15 @@ I'm particularly excited by:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-✅**Technical skills:** Python (Pandas, PyTorch, Scikit-learn), R, Streamlit, FastAPI, MySQL, Oracle, SQL Server.
+✅**Technical skills:** Python (Pandas, PyTorch, Scikit-learn), R, Streamlit, FastAPI, MySQL, Oracle, SQL Server, NoSQL, MySQL, PostgreSQL.
 
-✅**AI/ML:** LLMs (Gemini), LangChain, NLP, Scikit-learn, TensorFlow, Retrieval-Augmented Generation (RAG).
+✅**AI/ML:** LLMs (Gemini), LangChain, NLP, Scikit-learn, TensorFlow, Retrieval-Augmented Generation (RAG), PyTorch, Generative AI (LLMs, RAG, LangChain, Vector DBs – FAISS, Pinecone).
 
-✅**Visualization & Tools:** Power BI, Tableau, Excel (PivotTables, Goal Seek), PowerPoint, Adobe, Git, Bash, Linux/Unix, CI/CD (basic), Jira, Cursor, VS code, Visio.
+✅**Visualization & Tools:** Power BI, Tableau, Excel (Pivot Tables, VLOOKUP, Power Query), PowerPoint, Adobe, Bash, Linux/Unix, CI/CD (basic), Jira, Cursor, VS code, Visio, Matplotlib, Seaborn.
 
-✅**Cloud:** Google Cloud (Certified), Amazon Web Services (EC2, Lambda, AWS SageMaker).
+✅**Cloud:** Google Cloud (Certified), Amazon Web Services (EC2, Lambda, AWS SageMaker), Spark, Databricks, Airflow.
+
+✅**Tools & Version Control:** Git, Jupyter, VS Code, Unix/Linux, Postman, Cursor, Streamlit.
 
 ✅**Soft Skills:** Strong communication (written & verbal), analytical thinking, problem-solving, positive attitude.
 
@@ -111,8 +101,10 @@ I'm particularly excited by:
 
 ### 🏆 Certifications & Achievements
 - ✅ **Google Cloud Certified – Associate Cloud Engineer**
-- ✅ Dell EMC Information Storage & Management v5.0
-- ✅ Infra Ops Foundation Certified
+- ✅ **Dell** EMC Information Storage & Management v5.0
+- ✅ Certified **Databricks** Generative AI Fundamentals
+- ✅ **HP** Certified Agile Project Management
+- ✅ Certified Foundation and Infra Ops **(DXC)** 
 - 🥈 **2nd Place – CMBB BioTech Bridge Hackathon** for building an AI assistant promoting health & longevity
 
 ---
@@ -123,6 +115,7 @@ I'm particularly excited by:
 - 📨 Email: thogitivishnu01@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-thogiti-52421926b/)  
 - 💼 [Handshake](https://fau.joinhandshake.com/profiles/rwxfej)
+- 💹 [Tableau](https://public.tableau.com/app/profile/vishnu.thogiti/vizzes)
 - 🔗 Portfolio/Apps: [Stock Predictor](https://vishnuthogiti139-stock-predictor-app-0sgqgy.streamlit.app/) • [Coffee Finder](https://vishnuthogiti139-coffee-finder-app-wmbgtr.streamlit.app/) • [Employee Summary](https://employeesummary-jdt97kuxhntmkfbsfrn6ws.streamlit.app/)
 
 ---
