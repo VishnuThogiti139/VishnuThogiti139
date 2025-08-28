@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-thogiti-52421926b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Thogiti-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://public.tableau.com/app/profile/vishnu.thogiti/vizzes">
+      <img src="https://img.shields.io/badge/Tableau-Vishnu%20Thogiti-Green?style=flat&logo=Tableau" alt="Tableau"/>
   </a>
   <a href="mailto:thogitivishnu01@gmail.com">
     <img src="https://img.shields.io/badge/Email-thogitivishnu01@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
