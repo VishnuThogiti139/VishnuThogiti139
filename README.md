@@ -31,7 +31,7 @@ I'm particularly excited by:
 
 ### 💼 Work Experience
 
-#### MYSTICMIND DATA SOLUTIONS LLC  – *Data Science - Engineer & analyst*	
+#### 💻 MYSTICMIND DATA SOLUTIONS LLC  – *Data Science - Engineer & analyst*	
 **Houston, TX, USA -- Present**
 
 - **Skills:** Python, SQL, Databricks, AWS, GCP, PyTorch, LangChain, Spark, TensorFlow, Scikit-learn, ELT
